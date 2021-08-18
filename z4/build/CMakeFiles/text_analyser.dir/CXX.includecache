@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maniol/STL_konkurs/z4/main.cpp
+fstream
+-
+algorithm
+-
+iterator
+-
+iostream
+-
+string
+-
+map
+-
+vector
+-
+sstream
+-
+
