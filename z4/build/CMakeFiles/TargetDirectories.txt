@@ -1,3 +1,0 @@
-/home/maniol/STL_konkurs/z4/build/CMakeFiles/rebuild_cache.dir
-/home/maniol/STL_konkurs/z4/build/CMakeFiles/edit_cache.dir
-/home/maniol/STL_konkurs/z4/build/CMakeFiles/text_analyser.dir
